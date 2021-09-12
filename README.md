@@ -1,5 +1,5 @@
 # VBA_Challenge
-Module 2 Assignment VBA
+Module 2 Assignment VBA by Varun Rao
 ## Excel Sheet: [VBA Challenge](VBA_Challenge.xlsm)
 
 ## Overview of Project
