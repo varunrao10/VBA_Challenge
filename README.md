@@ -6,9 +6,9 @@ Module 2 Assignment VBA
 The purpose of this analysis was to deepen our understanding of programming logic and how we could use for loops and arrays in the refactor process.
 
 ## Results
-![VBA_Challenge_2017 Refactor Time](Resources/VBA_Challenge_2017)
+![VBA_Challenge_2017 Refactor Time](Resources/VBA_Challenge_2017.PNG)
 When calculating the refactored time for the 2017 Worksheet the time that we got is 0.1757813 seconds. The time on the non refacotred worksheet is 0.9570313 second.
-![VBA_Challenge_2018 Refactor Time](Resources/VBA_Challenge_2018)
+![VBA_Challenge_2018 Refactor Time](Resources/VBA_Challenge_2018.PNG)
 When calculating the refactored time for the 2017 Worksheet the time that we got is 0.1953125 seconds. The time on the non refacotred worksheet is 1 second.
 
 The stock performance between the 2017 and 2018 refactored times are very close because both sheets have the same number of rows. The small difference in time could have been cause by other factors.
